@@ -3,9 +3,9 @@
 
 **Contact**: vulavalakirankumar@gmail.com  
 **Mobile**: +91 8247635324  
-**Website**: 
-**YouTube**: 
-**LinkedIn**: 
+**Website**:   
+**YouTube**:   
+**LinkedIn**: https://www.linkedin.com/in/vulavalakirankumar/
 
 ---
 
@@ -93,5 +93,5 @@ Clusters, tasks, EC2 vs. Fargate, deployment and troubleshooting.
 
 ## 📌 Useful Links
 
-- LinkedIn: [linkedin.com/in/moole-muralidhara-reddy](https://www.linkedin.com/in/moole-muralidhara-reddy/)  
+- LinkedIn: https://www.linkedin.com/in/vulavalakirankumar/
 - Email: vulavalakirankumar@gmail.com  
