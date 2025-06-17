@@ -87,11 +87,4 @@ AWS Managed Microsoft AD setup and EC2 integration.
 Serverless overview, limitations, automating EC2 AMI backups.
 
 **Bonus: ECS (Elastic Container Service)**  
-Clusters, tasks, EC2 vs. Fargate, deployment and troubleshooting.
-
-
-
-## 📌 Useful Links
-
-- LinkedIn: https://www.linkedin.com/in/vulavalakirankumar/
-- Email: vulavalakirankumar@gmail.com  
+Clusters, tasks, EC2 vs. Fargate, deployment and troubleshooting. 
